@@ -4,5 +4,13 @@ h1 {
 }
 
 .slidev-layout p {
-  line-height: 2.5rem;
+  line-height: 3rem;
+}
+
+.text-primary {
+  color: #34d399;
+}
+
+.slidev-layout h1 {
+  line-height: 3.5rem;
 }
